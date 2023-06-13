@@ -41,10 +41,12 @@ def i_ff_ul(load, length, modulus_of_elasticity, deflection_max):
 
 
 def z_ss_ul():
+    # TODO implement the z_ss_ul method
     pass
 
 
 def i_ss_ul():
+    # TODO implement the i_ss_ul method
     pass
 
 
